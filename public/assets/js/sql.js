@@ -6,9 +6,9 @@ const mysql = require('mysql2');
 
 // establish database connection
 const connection = mysql.createConnection({
-    host: 'localhost';
-    user: 'root';
-    database: 'test';
+    host: 'localhost',
+    user: 'root',
+    database: 'test',
 });
 
 // simple query
