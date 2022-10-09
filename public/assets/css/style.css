@@ -68,3 +68,7 @@ header {
 	border: 2px solid black;
 	text-decoration: none;
 }
+
+.text-to-align {
+	vertical-align: bottom;
+}
