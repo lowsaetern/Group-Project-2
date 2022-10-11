@@ -34,6 +34,14 @@ header {
 	background-position: center;
 }
 
+.pie_chart_content {
+	position: absolute;
+	background: url(https://cdn.discordapp.com/attachments/255091044364976128/1027778036139044944/sanfrancisco_guide_hero.jpg);
+	min-height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
 .hero h1 {
 	font-size: 70px;
 	font-weight: 800;
@@ -67,4 +75,49 @@ header {
 	color: black;
 	border: 2px solid black;
 	text-decoration: none;
+}
+
+.container2 {
+	background-color: white;
+	border-radius: 40px;
+	padding: 0px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.main_box h1 {
+	padding: 50px 0px 50px 0px;
+	color: black;
+	font-size: 25px;
+}
+.main_box {
+	background-color: white;
+	height: 100%;
+	border-bottom-left-radius: 30px;
+	border-top-left-radius: 30px;
+}
+
+.count_box {
+	background-color: #122952;
+	border-bottom-right-radius: 30px;
+	border-top-right-radius: 30px;
+	height: 100%;
+	color: #ffffff;
+	padding: 100px;
+}
+
+.form-control:disabled,
+.form-control[read-only] {
+	background-color: #3546b0;
+	opacity: 1;
+}
+
+.coronavirus-input {
+	background: #2adece;
+}
+
+.deaths-input {
+	background-color: #dd3b79;
+	border: none;
+	color: white;
 }
