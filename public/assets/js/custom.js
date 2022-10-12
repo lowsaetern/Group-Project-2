@@ -1,12 +1,13 @@
-const cases = document.querySelector('.coronavirus-input');
-const deaths = document.querySelector('.deaths-input');
-const recovered = document.querySelector('.recovered-input');
+const rent = document.querySelector('.rent-input');
+const food = document.querySelector('.food-input');
+const transportation = document.querySelector('.transportation-input');
+const ulitlities = document.querySelector('.utilities-input');
 
 const ctx = document.getElementById('mychart').getContext('2d');
 const myChart = new Chart(ctx, {
 	type: 'pie',
 	data: {
-		labels: ['Rent', 'Transportation', 'Food', 'Ulitlities'],
+		labels: ['Rent', 'Food', 'Transportation', 'Ulitlities'],
 		datasets: [
 			{
 				label: '# of Votes',
@@ -26,6 +27,7 @@ const updateChartValue = (input, dataOrder) => {
 	});
 };
 
-updateChartValue(cases, 0);
-updateChartValue(deaths, 1);
-updateChartValue(recovered, 2);
+updateChartValue(rent, 0);
+updateChartValue(food, 1);
+updateChartValue(transportation, 2);
+updateChartValue(ulitlities, 3);

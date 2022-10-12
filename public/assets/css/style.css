@@ -86,6 +86,7 @@ header {
 	padding: 0px;
 	text-align: center;
 	font-size: 18px;
+	margin: 20px 20px 20px 20px;
 }
 
 .main_box h1 {
@@ -107,20 +108,4 @@ header {
 	height: 100%;
 	color: #ffffff;
 	padding: 100px;
-}
-
-.form-control:disabled,
-.form-control[read-only] {
-	background-color: #3546b0;
-	opacity: 1;
-}
-
-.coronavirus-input {
-	background: #2adece;
-}
-
-.deaths-input {
-	background-color: #dd3b79;
-	border: none;
-	color: white;
 }
