@@ -1,4 +1,5 @@
 const express = require('express');
+const PORT = procces.env.PORT || 3001;
 const app = express();
 const bodyParser = require('body-parser');
 const exphbs = require('express-handlebars');
@@ -21,9 +22,10 @@ app.engine(
 
 app.set('view engine', 'hbs');
 
-const port = 8900;
-app.listen(port);
-console.log(`listening to server: http://localhost:${port}`);
+app.listen(PORT, () => {
+	console.log(`API server now on port ${PORT}!`);
+});
+console.log(`listening to server: http://localhost:${PORT}`);
 
 function filterByQuery(query, budgetsArray) {
 	let filteredResults = budgetsArray;
