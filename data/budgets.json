@@ -1,0 +1,229 @@
+{
+	"budgets": [
+		{
+			"id": "0",
+			"name": "LosAngeles",
+			"income": "60000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "1",
+			"name": "LosAngeles",
+			"income": "70000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "2",
+			"name": "LosAngeles",
+			"income": "80000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "3",
+			"name": "LosAngeles",
+			"income": "90000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "4",
+			"name": "LosAngeles",
+			"income": "100000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "5",
+			"name": "SanDiego",
+			"income": "60000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "6",
+			"name": "SanDiego",
+			"income": "70000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "7",
+			"name": "SanDiego",
+			"income": "80000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "8",
+			"name": "SanDiego",
+			"income": "90000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "9",
+			"name": "SanDiego",
+			"income": "100000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "10",
+			"name": "Sacramento",
+			"income": "60000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "11",
+			"name": "Sacramento",
+			"income": "70000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "12",
+			"name": "Sacramento",
+			"income": "80000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "13",
+			"name": "Sacramento",
+			"income": "90000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "14",
+			"name": "Sacramento",
+			"income": "100000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "15",
+			"name": "SanJose",
+			"income": "60000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "16",
+			"name": "SanJose",
+			"income": "70000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "17",
+			"name": "SanJose",
+			"income": "80000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "18",
+			"name": "SanJose",
+			"income": "90000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "19",
+			"name": "SanJose",
+			"income": "100000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "20",
+			"name": "SanFrancisco",
+			"income": "60000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "21",
+			"name": "SanFrancisco",
+			"income": "70000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "22",
+			"name": "SanFrancisco",
+			"income": "80000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "23",
+			"name": "SanFrancisco",
+			"income": "90000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		},
+		{
+			"id": "24",
+			"name": "SanFrancisco",
+			"income": "100000",
+			"food": "600",
+			"rent": "2865",
+			"transportation": "256",
+			"utilities": "129"
+		}
+	]
+}
