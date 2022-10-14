@@ -90,6 +90,10 @@ app.get('/', (req, res) => {
 	res.render('main');
 });
 
+app.get('/custom', (req, res) => {
+	res.sendFile(path.join(__dirname, './public/custom.html'));
+});
+
 app.get('/api/budgets', (req, res) => {
 	let results = budgets;
 	if (req.query) {
@@ -105,6 +109,10 @@ app.get('/api/budgets/:id', (req, res) => {
 	} else {
 		res.send(404);
 	}
+});
+
+app.get('*', (req, res) => {
+	res.sendFile(path.join(__dirname, './public/index.html'));
 });
 
 app.post('/api/budgets', (req, res) => {
